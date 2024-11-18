@@ -10904,7 +10904,9 @@ section {
   background-color: black;
 }
 #mainNav .navbar-brand {
-  font-family: Inter;
+  font-family: "Inter", sans-serif;
+  
+  
 }
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:active {
   color: #2937f0;
