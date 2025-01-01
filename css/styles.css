@@ -103,6 +103,12 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+.rerumNovarum{
+  font-family:"Nothing You Could Do,serif";
+  font-size: 2rem;
+
+}
 .reviewArea{
   background-color: #000;
 }
